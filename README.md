@@ -8,9 +8,9 @@
 
 A custom integration for Carrier Infinity Thermostats.
 
-This integration utilizes the Carrier Api, if you would prefer a fully local integration for carrier thermostats use [infinitude](https://github.com/MizterB/homeassistant-infinitude)
+This integration utilizes the Carrier API for B series thermostats. If you prefer a fully local integration and/or have an A series thermostat (e.g., SYSTXCCITC01-A) consider [Infinitude](https://github.com/MizterB/homeassistant-infinitude).
 
-tested initially on SYSTXCCWIC01-B fw 4.31
+The API used by this integration was initially tested on SYSTXCCWIC01-B Firmware 4.31.
 
 ## Feature Highlights ##
 - thermostat
